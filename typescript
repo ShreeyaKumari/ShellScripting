@@ -1,9 +1,0 @@
-Script started on 2025-01-02 23:09:14+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="204" LINES="55"]
-[?2004h]0;shreeya@vivobook: ~[01;32mshreeya@vivobook[00m:[01;34m~[00m$ ls
-[?2004l[0m[01;34mCollegeJava[0m  [01;34mCollegeWeb[0m  [01;34mDesktop[0m  [01;34mDocuments[0m  [01;34mDownloads[0m  [01;34meclipse-workspace[0m  [01;34mMusic[0m  [01;34mmyscripts[0m  [01;34mPictures[0m  [01;34mPublic[0m  [01;34mScripts[0m  [01;34mShellScripting[0m  [01;34msnap[0m  [01;34mTemplates[0m  typescript  [01;34mTypeTest[0m  [01;34mVideos[0m
-[?2004h]0;shreeya@vivobook: ~[01;32mshreeya@vivobook[00m:[01;34m~[00m$ pw[K[Kecho "HELLO"
-[?2004lHELLO
-[?2004h]0;shreeya@vivobook: ~[01;32mshreeya@vivobook[00m:[01;34m~[00m$ [K]0;shreeya@vivobook: ~[01;32mshreeya@vivobook[00m:[01;34m~[00m$ [K]0;shreeya@vivobook: ~[01;32mshreeya@vivobook[00m:[01;34m~[00m$ [?2004l
-exit
-
-Script done on 2025-01-02 23:23:14+05:30 [COMMAND_EXIT_CODE="0"]
